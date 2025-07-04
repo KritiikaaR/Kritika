@@ -1,20 +1,23 @@
-# HI, I'm Kritika Regmi.
+HI, I'm Kritika Regmi.
 
 Third-year CS student passionate about building real-world web applications and solving algorithmic problems.
 
-Tech Stack:  
-Python | Flask | HTML/CSS | JavaScript | MySQL | Git & GitHub
+Tech Stack
+Languages & Frameworks: 
+Python | Flask | Java | HTML/CSS | JavaScript | SQL/MySQL  
+
+Tools & Technologies: 
+Git & GitHub | VS Code | Eclipse | Bootstrap  
 
 Featured Projects:
-- Hospital Management System 
-A web-based system built using Flask and MySQL to manage patients, doctors, appointments, and emergencies. Includes dynamic ID generation and role-based dashboards.
-
 - Personal Blog App
 A clean and responsive blogging platform with user registration, login, and personalized feeds. Built using Flask, SQLAlchemy, and Bootstrap.
 
-- DSA Problem Tracker  
-A structured collection of solved data structure and algorithm problems, organized by topic with explanations and code samples. Great for interview prep!
+- Collaborative Whiteboard
+A real-time Java Swing application enabling multiple users to draw simultaneously with live synchronization. Supports color selection, brush size adjustment, clear, and image export.
 
 Currently learning: React & API integration
 
-📫 Reach me at: krtkregmi@gmail.com
+Reach me at: krtkregmi@gmail.com
+
+Thanks for visiting my profile!
