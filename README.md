@@ -10,10 +10,10 @@ Tools & Technologies:
 Git & GitHub | VS Code | Eclipse | Bootstrap  
 
 Featured Projects:
-- Personal Blog App
+- Personal Blog App: 
 A clean and responsive blogging platform with user registration, login, and personalized feeds. Built using Flask, SQLAlchemy, and Bootstrap.
 
-- Collaborative Whiteboard
+- Collaborative Whiteboard: 
 A real-time Java Swing application enabling multiple users to draw simultaneously with live synchronization. Supports color selection, brush size adjustment, clear, and image export.
 
 Currently learning: React & API integration
